@@ -3,7 +3,7 @@ import java.util.Stack;
 
 public class Parentesis {
     public static void main(String[] args) {
-
+        //OK
         Stack<String> stack = new Stack<>();
 
         String parentesis = "[{()}]";

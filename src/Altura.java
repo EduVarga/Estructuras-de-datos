@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 public class Altura {
     public static void main(String[] args) {
-
+        //OK
         ArrayList<Double> alturas = leerAlturas(numeroAlumnos());
 
         mostrarResultados(alturas);

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class TelefonosII {
     public static void main(String[] args) {
-
+        //OK
         Scanner inputValue = new Scanner(System.in);
 
         HashMap<String, ArrayList<String>> numeros = new HashMap<>();
