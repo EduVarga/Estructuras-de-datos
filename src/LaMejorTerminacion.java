@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class LaMejorTerminacion {
     public static void main(String[] args) {
-
+        //OK
         Scanner inputValue = new Scanner(System.in);
 
         HashMap<String, Integer> resultado = new HashMap<>();

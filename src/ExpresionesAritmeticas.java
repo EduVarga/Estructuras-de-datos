@@ -3,7 +3,7 @@ import java.util.Stack;
 
 public class ExpresionesAritmeticas {
     public static void main(String[] args) {
-
+        //OK
         Stack<String> operacion = new Stack<>();
 
         ArrayList<String> calculo = new ArrayList<>();

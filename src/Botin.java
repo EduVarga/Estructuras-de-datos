@@ -26,7 +26,7 @@ public class Botin {
         return repartir.toString();
     }
     public static void main(String[] args) {
-
+        //Mal. Salta java.lang.IndexOutOfBoundsException
         Scanner inputValue = new Scanner(System.in);
 
         ArrayList<Integer> billetes = new ArrayList<>();
